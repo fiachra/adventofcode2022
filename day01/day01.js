@@ -21,20 +21,3 @@ function main() {
 }
 
 main()
-
-
-
-
-// console.log(splt1.length)
-// console.log(JSON.stringify(splt2, null, 2))
-
-// const max = Math.max(...splt2);
-// const index = splt2.indexOf(max);
-// console.log(max, index); // 👉️ 3
-
-// const sorted = splt2.sort((a,b) => b-a)
-// const top3 = sorted.slice(0, 3)
-// const ans = top3.reduce((a,v) => a+v, 0)
-// console.log(ans, 'some');
-
-// console.log(file.split('\n\n').map(v => v.split('\n').reduce((a,n) => a+n, 0)))
